@@ -1,7 +1,7 @@
 #!/bin/sh
 # "Updating packages ..."
-sudo apt-get update
-sudo apt-get upgrade -y
+##sudo apt-get update
+##sudo apt-get upgrade -y
 
 # update the dns config file
 sudo touch /etc/netplan/99-custom-dns.yaml
