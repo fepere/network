@@ -3,4 +3,4 @@ network:
   ethernets:
     eth0:
       nameservers:
-        search: [mbs2fnr2x1mu5mpbwpoqc3ml1b.bx.internal.cloudapp.net, reddog.microsoft.com, tnext.loc, alstom.hub]
+        search: [reddog.microsoft.com, tnext.loc, alstom.hub]
